@@ -16,4 +16,5 @@
 <!-- Exemplo para adicionar autor no Github
 [<img src="https://img.shields.io/badge/author-rlrocha-orange?style=flat-square"/>](https://github.com/rlrocha) -->
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lm6lFR8w1MgHgxzJ_KIFvyCM7XVocC01?usp=sharing)
+<!-- Exemplo para abrir código no Colab.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lm6lFR8w1MgHgxzJ_KIFvyCM7XVocC01?usp=sharing) -->
