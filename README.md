@@ -8,3 +8,6 @@
 * <Image src=icons/computer_vision.png> Computer Vision
 * <Image src=icons/data_analysis.png> Data Analysis
 * <Image src=icons/information_visualization.png> Information Visualization
+
+#### Where do you find me?
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/rlrocha/)](https://www.https://www.linkedin.com/in/rlrocha/)
