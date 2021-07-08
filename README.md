@@ -1,3 +1,3 @@
-# Hello fellows :v:
+# Hello fellows! :v:
 
 Personal profile
