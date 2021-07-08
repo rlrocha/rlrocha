@@ -1,3 +1,3 @@
-# Hello fellows :two_men_holding_hands:
+# Hello fellows :v:
 
 Personal profile
