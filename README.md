@@ -13,4 +13,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rlrocha/)
 <!-- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white") -->
 
-[<img src="https://img.shields.io/badge/author-rlrocha-blue?style=flat-square"/>](https://github.com/rlrocha)
+<!-- Exemplo para adicionar autor no Github
+[<img src="https://img.shields.io/badge/author-rlrocha-orange?style=flat-square"/>](https://github.com/rlrocha) -->
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Lm6lFR8w1MgHgxzJ_KIFvyCM7XVocC01?usp=sharing)
